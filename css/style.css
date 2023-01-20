@@ -1,0 +1,15 @@
+.bz-btn{
+    background-color: #f10404;
+    color: #eceff1;
+}
+.bz-btn:hover{
+    background-color: transparent;
+    color: #5c25f3;
+}
+
+.bz-light-color{
+    width: 40px;
+    height:40px;
+    background-color: rgba(165, 42, 42, 0.295);
+    border-radius: 20px;
+}
